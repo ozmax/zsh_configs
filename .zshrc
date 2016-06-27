@@ -1,4 +1,5 @@
-source ~/.zsh/colors.zsh
+export CLICOLOR=1
+#source ~/.zsh/colors.zsh
 source ~/.zsh/setopt.zsh
 source ~/.zsh/history.zsh
 source ~/.zsh/exports.zsh
